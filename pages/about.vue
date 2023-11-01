@@ -13,7 +13,7 @@
           <!-- Loop through products -->
           <ul>
             <li v-for="product in subcategory.products" :key="product.id">
-              {{ product.name }} - ${{ product.price }} 
+              {{ product.name }} - ${{ product.price }}
             </li>
           </ul>
         </div>
