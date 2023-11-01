@@ -1,0 +1,53 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "subcategories": [
+          {
+            "id": 101,
+            "name": "Smartphones",
+            "products": [
+              { "id": 1001, "name": "iPhone 13", "price": 999 },
+              { "id": 1002, "name": "Samsung Galaxy S21", "price": 899 },
+              { "id": 1003, "name": "Google Pixel 6", "price": 799 }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Laptops",
+            "products": [
+              { "id": 1004, "name": "MacBook Air", "price": 1299 },
+              { "id": 1005, "name": "Dell XPS 13", "price": 1199 },
+              { "id": 1006, "name": "HP Spectre x360", "price": 1099 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Clothing",
+        "subcategories": [
+          {
+            "id": 201,
+            "name": "Men's Clothing",
+            "products": [
+              { "id": 1007, "name": "Men's Shirt", "price": 29 },
+              { "id": 1008, "name": "Men's Jeans", "price": 49 },
+              { "id": 1009, "name": "Men's Jacket", "price": 59 }
+            ]
+          },
+          {
+            "id": 202,
+            "name": "Women's Clothing",
+            "products": [
+              { "id": 1010, "name": "Women's Dress", "price": 39 },
+              { "id": 1011, "name": "Women's Blouse", "price": 29 },
+              { "id": 1012, "name": "Women's Skirt", "price": 34 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
